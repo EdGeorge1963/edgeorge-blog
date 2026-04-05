@@ -1,4 +1,16 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://edgeorge-blog.netlify.app/'
 locale = 'en-us'
-title = 'Ed George new Reading Marx blog'
+title = "Ed George's new Reading Marx blog"
 theme = "ananke"
+mainSections = ["posts"]
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 2
