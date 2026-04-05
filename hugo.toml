@@ -2,15 +2,32 @@ baseURL = 'https://edgeorge-blog.netlify.app/'
 locale = 'en-us'
 title = "Ed George's new Reading Marx blog"
 theme = "ananke"
+pluralizeListTitles = false
 mainSections = ["posts"]
 [menu]
 
   [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+name = "Home"
+url = "/"
+weight = 1
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 2
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Reading Marx"
+url = "/reading-marx/"
+weight = 3
+
+[[menu.main]]
+name = "Grundrisse"
+parent = "Reading Marx"
+url = "/reading-marx/grundrisse/"
+weight = 1
+
+[[menu.main]]
+name = "Writing"
+url = "/writing/"
+weight = 4

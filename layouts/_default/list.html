@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+{{ if .Sections }}
+
+  <!-- TOP LEVEL: show sections only -->
+  <ul>
+    {{ range .Sections }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>
+
+{{ else }}
+
+  <!-- LOWER LEVEL: show pages -->
+  <ul>
+    {{ range .Pages }}
+      <li>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+    {{ end }}
+  </ul>
+
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grundrisse on Ed George&#39;s new Reading Marx blog</title>
+    <link>http://localhost:1313/reading-marx/grundrisse/</link>
+    <description>Recent content in Grundrisse on Ed George&#39;s new Reading Marx blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/reading-marx/grundrisse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Commentary</title>
+      <link>http://localhost:1313/reading-marx/grundrisse/commentary/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/reading-marx/grundrisse/commentary/</guid>
+      <description>&lt;p&gt;Test&#xA;&lt;a href=&#34;http://localhost:1313/files/grundrisse/Grundrisse.pdf&#34;&gt;Download the PDF&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
