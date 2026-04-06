@@ -5,7 +5,7 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reading-marx/grundrisse/commentary/</loc>
+    <loc>http://localhost:1313/reading-marx/grundrisse/1-an-introductory-note/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reading-marx/grundrisse/</loc>
@@ -24,6 +24,12 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/links/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/texts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/writing/</loc>
   </url>
 </urlset>

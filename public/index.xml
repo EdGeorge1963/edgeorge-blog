@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ed George&#39;s new Reading Marx blog</title>
+    <title>Ed George&#39;s New Reading Marx Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Ed George&#39;s new Reading Marx blog</description>
+    <description>Recent content on Ed George&#39;s New Reading Marx Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 05 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Commentary</title>
-      <link>http://localhost:1313/reading-marx/grundrisse/commentary/</link>
+      <title>1 The Grundrisse: An introductory note</title>
+      <link>http://localhost:1313/reading-marx/grundrisse/1-an-introductory-note/</link>
       <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/reading-marx/grundrisse/commentary/</guid>
-      <description>&lt;p&gt;Test&#xA;&lt;a href=&#34;http://localhost:1313/files/grundrisse/Grundrisse.pdf&#34;&gt;Download the PDF&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/reading-marx/grundrisse/1-an-introductory-note/</guid>
+      <description>&lt;p&gt;The 1857-58 Manuscript&amp;mdash;known as the &lt;em&gt;Grundrisse&lt;/em&gt; (literally &amp;ldquo;floor plans&amp;rdquo;, i.e. &amp;ldquo;outlines&amp;rdquo;, but this title was not Marx’s)&amp;mdash;consists of those texts Marx wrote from the summer of 1857 to the summer or 1858, namely the text &amp;ldquo;Bastiat and Carey&amp;rdquo;; the &amp;ldquo;&lt;em&gt;Enleitung&lt;/em&gt;&amp;rdquo; (&amp;ldquo;Introduction&amp;rdquo;); the two longer &amp;ldquo;chapters&amp;rdquo;, &amp;ldquo;Chapter on Money&amp;rdquo; and &amp;ldquo;Chapter on Capital&amp;rdquo;; and the fragment &amp;ldquo;Value&amp;rdquo; (even though the first two of these texts&amp;mdash;&amp;ldquo;Bastiat and Carey&amp;rdquo; and the &amp;ldquo;Introduction&amp;rdquo;&amp;mdash;do not really form an integral whole with the other three). The Manuscript, not intended by Marx for publication, and unknown at the time of his death, represents his first attempt to put his mature economic theories (developed in London over the course of the 1850s) into written form.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
@@ -28,6 +28,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;This is a very occasional blog.&lt;/p&gt;&#xA;&lt;p&gt;Most posts are short notes with links to longer PDFs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/links/</guid>
+      <description>&lt;p&gt;Here there will be links.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Texts</title>
+      <link>http://localhost:1313/texts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/texts/</guid>
+      <description>&lt;p&gt;Here there will be texts.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing</title>
+      <link>http://localhost:1313/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/writing/</guid>
+      <description>&lt;p&gt;Here there will be writing.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
