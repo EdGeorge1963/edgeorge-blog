@@ -25,3 +25,63 @@
 .sidebar li:hover > ul {
   display: block;
 }
+
+.post-header h1 {
+  font-size: 2em;
+  margin-bottom: 0.2em;
+}
+
+.meta {
+  color: #666;
+  font-size: 0.9em;
+  margin-bottom: 20px;
+}
+
+.post-body {
+  line-height: 1.7;
+  font-size: 18px;
+}
+
+.post-body p {
+  margin-bottom: 1em;
+}
+
+.post-body a {
+  text-decoration: underline;
+}
+
+.home-content {
+  max-width: 1200px;        /* controls width */
+  margin: 40px auto;       /* centers the block */
+  padding: 0 20px;         /* breathing room on small screens */
+
+  text-align: left;        /* ensures text is left-aligned */
+  font-size: 18px;         /* slightly larger */
+  line-height: 1.7;        /* more spacing between lines */
+}
+
+.section-content {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+
+  text-align: left;
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+.tree .node {
+  margin: 10px 0;
+}
+
+.section-content h1 {
+  margin-bottom: 20px;
+}
+
+.node.section a {
+  font-weight: bold;
+}
+
+.node.page a {
+  margin-left: 15px;
+}

@@ -2,7 +2,7 @@
 
 <article class="content">
   <h1>{{ .Title }}</h1>
-
+{{ .Content }}
   <div class="tree">
     {{ if .Sections }}
 
@@ -14,7 +14,7 @@
 
     {{ else }}
 
-      {{ range .Pages }}
+      {{ range .RegularPages.ByDate }}
         <div class="node page">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </div>

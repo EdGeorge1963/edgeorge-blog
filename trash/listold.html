@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+<h1>{{ .Title }}</h1>
+
+<h2>DEBUG</h2>
+
+<p>Kind: {{ .Kind }}</p>
+
+<h3>Pages</h3>
+<ul>
+{{ range .Pages }}
+  <li>{{ .Title }} - {{ .RelPermalink }}</li>
+{{ end }}
+</ul>
+
+<h3>RegularPages</h3>
+<ul>
+{{ range .RegularPages }}
+  <li>{{ .Title }} - {{ .RelPermalink }}</li>
+{{ end }}
+</ul>
+
+{{ end }}

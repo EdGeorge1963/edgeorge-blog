@@ -1,27 +1,29 @@
 {{ define "main" }}
 
-<article class="content">
+<article class="section-content">
+
   <h1>{{ .Title }}</h1>
 
-  <div class="tree">
-    {{ if .Sections }}
+  {{ .Content }}
 
+  <div class="tree">
+
+    {{ if .Sections }}
       {{ range .Sections }}
         <div class="node section">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </div>
       {{ end }}
-
-    {{ else }}
-
-      {{ range .Pages }}
-        <div class="node page">
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </div>
-      {{ end }}
-
     {{ end }}
+
+    {{ range .RegularPages.ByDate }}
+      <div class="node page">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </div>
+    {{ end }}
+
   </div>
+
 </article>
 
 {{ end }}
