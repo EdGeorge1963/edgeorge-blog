@@ -2,7 +2,7 @@
 title: "Ed George's New Reading Marx Blog"
 ---
 
-My name is Ed George. Around twenty years ago (for reasons to involved to go into here, but which I explain elsewhere on this site), I decided to begin a close reading of Marx’s economic writings (*Capital*, the *Grundrisse*, *Theories of Surplus-Value*). Naively, I gave myself five years to work through all this; at the time of writing, I have  finished the three volumes of *Capital* and made some progress on the *Grundrisse*. As I read, I took detailed reading notes, and, after a while, decided to publish them online.
+My name is Ed George. Around twenty years ago (for reasons too involved to go into here, but which I explain elsewhere on this site), I decided to begin a close reading of Marx’s economic writings (*Capital*, the *Grundrisse*, *Theories of Surplus-Value*). Naively, I gave myself five years to work through all this; at the time of writing, I have  finished the three volumes of *Capital* and made some progress on the *Grundrisse*. As I read, I took detailed reading notes, and, after a while, decided to publish them online.
 
 Up until recently, I’d archived all my notes on a Wordpress blog (*Ed George's Reading Marx Blog*, here: https://readingmarx.wordpress.com/). But now I’ve decided, for a number of different reasons, to move everything here---hence this blog.
 
