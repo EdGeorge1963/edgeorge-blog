@@ -1,0 +1,57 @@
+baseURL = 'https://edgeorge-blog.netlify.app/'
+locale = 'en-us'
+title = "Ed George's New Reading Marx Blog"
+theme = "ananke"
+pluralizeListTitles = false
+mainSections = ["posts"]
+[menu]
+
+  [[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Reading Marx"
+url = "/reading-marx/"
+weight = 2
+
+[[menu.main]]
+name = "Grundrisse"
+parent = "Reading Marx"
+url = "/reading-marx/grundrisse/"
+weight = 1
+
+[[menu.main]]
+name = "A Contribution to the Critique of Political Economy"
+parent = "Reading Marx"
+url = "/reading-marx/contribution/"
+weight = 2
+
+[[menu.main]]
+name = "Other Writers"
+url = "/other-writers/"
+weight = 3
+
+[[menu.main]]
+name = "Writing"
+url = "/writing/"
+weight = 4
+
+[[menu.main]]
+name = "Texts"
+url = "/texts/"
+weight = 5
+
+[[menu.main]]
+name = "Translations"
+url = "/translations/"
+weight = 6
+
+[[menu.main]]
+name = "Links"
+url = "/links/"
+weight = 7
+
+[params]
+custom_css = ["css/custom.css"]

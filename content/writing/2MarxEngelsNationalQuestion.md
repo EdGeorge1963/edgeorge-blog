@@ -1,0 +1,13 @@
+---
+title: "Marx and Engels and the National Question (1999)"
+date: "2026-04-24"
+draft: "false"
+---
+
+> *There are two ways to look at Marx and Engels: as the creators of a brilliant, but in its deepest essence, thoroughly critical, scientific method; or as church fathers of some sort, the bronzed figures of a monument. Those who have the latter vision will not have found this study to their taste. We, however, prefer to see them as they were in reality.*
+>
+>> ---Roman Rosdolsky
+
+Benedict Anderson, the author of one of the most suggestive theoretical examinations of modern nationalism of recent years, offered the judgement that for Marxism nationalism represents an "anomaly", and has, as a consequence, been "largely elided, rather than confronted", theoretically speaking. This is evidently not intended to mean that the broader Marxist tradition---that movement incorporating not solely the theoretical explications of Marx and Engels themselves but also the practical experiences of subsequent generations of Marxists---has not concerned itself with the question of nationalism. Far from it, for the writings of Communists of such diverse outlooks as Kautsky and Lenin, Stalin and Trotsky, Luxemburg and Bauer, are littered with endeavours to address the incidence of nationalism as both a theoretical question and as a practical difficulty as it presents itself to Marxist revolutionary politicians. The problem rather appears to be that there is no apparent direct lineage between the latter body of work and a "classical" framework of Marxist theory—as there is (naturally after having made allowances for theoretical discrepancies of a partial nature and the necessary evolution and development of concepts), in relation, say, to the inner mechanisms of the capitalist economy, or to the historical origins and functional operation of the modern state. Further: upon examination, it is not clear whether there is within "classical" Marxism itself even the elements of an essential notional framework upon which it is possible to develop, build and expand a coherent theoretical discourse; at first sight all we are able to discern are a series of fragmented and mutually contradictory references, apparently guided more by pragmatic considerations than by a framework of ‘scientific’ principles, and, after the passage of more than a century, ostensibly as of little use in the explanation of the modern world as is, say, the theory of "felicific calculus" of Bentham.
+
+More (pdf, 125 KB): [**Marx and Engels and the National Question**](/files/writing/MarxEngelsNationalQuestion.pdf)

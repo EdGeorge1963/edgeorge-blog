@@ -83,5 +83,7 @@
 }
 
 .node.page a {
-  margin-left: 15px;
+  display: block;
+  padding-left: 2.5em;
+  text-indent: -2.5em !important;
 }
