@@ -2,19 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/writing/09farewell/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading-marx/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/texts/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/texts/south-wales-fi/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading-marx/grundrisse/010money7/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading-marx/grundrisse/011money8/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/texts/south-wales-fi/16fouryears/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/</loc>
+    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/texts/south-wales-fi/15note/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading-marx/grundrisse/009money6/</loc>
+    <lastmod>2026-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/08seventeenthcenturys/</loc>
+    <lastmod>2026-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/texts/south-wales-fi/14walespoorrelation/</loc>
+    <lastmod>2026-05-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/texts/002shaikhtransformation/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/texts/south-wales-fi/13selfgovernment/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/07fivedraftpoints/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/texts/south-wales-fi/12ruins/</loc>
     <lastmod>2026-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/texts/</loc>
-    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/texts/south-wales-fi/</loc>
-    <lastmod>2026-04-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/texts/1socialistrevolutioneastwestmd/</loc>
+    <loc>http://localhost:1313/texts/001socialistrevolutioneastwest/</loc>
     <lastmod>2026-04-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/texts/south-wales-fi/11tendraftpoints/</loc>
@@ -23,46 +62,40 @@
     <loc>http://localhost:1313/texts/south-wales-fi/10parliament/</loc>
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writing/6onstalinism/</loc>
+    <loc>http://localhost:1313/writing/06onstalinism/</loc>
     <lastmod>2026-04-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writing/</loc>
-    <lastmod>2026-04-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writing/5the-bolsheviks-the-national-question-and-the-civil-war/</loc>
+    <loc>http://localhost:1313/writing/05the-bolsheviks-the-national-question-and-the-civil-war/</loc>
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/texts/south-wales-fi/9election/</loc>
+    <loc>http://localhost:1313/texts/south-wales-fi/09election/</loc>
     <lastmod>2026-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writing/4foresttreesmd/</loc>
+    <loc>http://localhost:1313/writing/04foresttreesmd/</loc>
     <lastmod>2026-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/texts/south-wales-fi/8abydded/</loc>
+    <loc>http://localhost:1313/texts/south-wales-fi/08abydded/</loc>
     <lastmod>2026-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reading-marx/</loc>
+    <loc>http://localhost:1313/reading-marx/grundrisse/008money5/</loc>
     <lastmod>2026-04-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reading-marx/grundrisse/8money5/</loc>
-    <lastmod>2026-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/texts/south-wales-fi/7cardiff/</loc>
+    <loc>http://localhost:1313/texts/south-wales-fi/07cardiff/</loc>
     <lastmod>2026-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writing/3bourgeoisrevolution/</loc>
+    <loc>http://localhost:1313/writing/03bourgeoisrevolution/</loc>
     <lastmod>2026-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writing/2marxengelsnationalquestion/</loc>
+    <loc>http://localhost:1313/writing/02marxengelsnationalquestion/</loc>
     <lastmod>2026-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reading-marx/grundrisse/7money4/</loc>
+    <loc>http://localhost:1313/reading-marx/grundrisse/007money4/</loc>
     <lastmod>2026-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/texts/south-wales-fi/6walescrisis/</loc>
+    <loc>http://localhost:1313/texts/south-wales-fi/06walescrisis/</loc>
     <lastmod>2026-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writing/1notesnairnanderson/</loc>
+    <loc>http://localhost:1313/writing/01notesnairnanderson/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/other-writers/</loc>
@@ -71,43 +104,43 @@
     <loc>http://localhost:1313/other-writers/ricardo-principles/1anintroductorynote/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reading-marx/grundrisse/6money3/</loc>
+    <loc>http://localhost:1313/reading-marx/grundrisse/006money3/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/texts/south-wales-fi/5naturewsrm/</loc>
+    <loc>http://localhost:1313/texts/south-wales-fi/05naturewsrm/</loc>
     <lastmod>2026-04-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/other-writers/ricardo-principles/</loc>
     <lastmod>2026-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/texts/south-wales-fi/4languagebroadcasting/</loc>
+    <loc>http://localhost:1313/texts/south-wales-fi/04languagebroadcasting/</loc>
     <lastmod>2026-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/texts/south-wales-fi/3noteswelshnationalsimplaidcymru/</loc>
+    <loc>http://localhost:1313/texts/south-wales-fi/03noteswelshnationalsimplaidcymru/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reading-marx/grundrisse/5money2/</loc>
+    <loc>http://localhost:1313/reading-marx/grundrisse/005money2/</loc>
     <lastmod>2026-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/texts/south-wales-fi/2reviewsocialismwelshpeople/</loc>
+    <loc>http://localhost:1313/texts/south-wales-fi/02reviewsocialismwelshpeople/</loc>
     <lastmod>2026-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/texts/south-wales-fi/1strategicview/</loc>
+    <loc>http://localhost:1313/texts/south-wales-fi/01strategicview/</loc>
     <lastmod>2026-04-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reading-marx/grundrisse/4money1/</loc>
+    <loc>http://localhost:1313/reading-marx/grundrisse/004money1/</loc>
     <lastmod>2026-04-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reading-marx/grundrisse/3introduction/</loc>
+    <loc>http://localhost:1313/reading-marx/grundrisse/003introduction/</loc>
     <lastmod>2026-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reading-marx/grundrisse/2bastiatandcarey/</loc>
+    <loc>http://localhost:1313/reading-marx/grundrisse/002bastiatandcarey/</loc>
     <lastmod>2026-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reading-marx/grundrisse/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/reading-marx/grundrisse/1anintroductorynote/</loc>
+    <loc>http://localhost:1313/reading-marx/grundrisse/001anintroductorynote/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reading-marx/contribution/</loc>

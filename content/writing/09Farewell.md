@@ -1,0 +1,15 @@
+---
+title: "A Farewell to the Vanguard Party or a Return to Leninism? (2003)"
+date: "2026-05-04"
+draft: "false"
+---
+
+> *At the Third Congress, in 1921, we adopted a resolution on the organisational structure of the Communist Parties and on the methods and content of their activities. The resolution is an excellent one, but it is almost entirely Russian, that is to say, everything in it is based on Russian conditions. This is its good point, but it is also its failing. It is its failing because I am sure that no foreigner can read it. I have read it again before saying this. In the first place, it is too long, containing fifty or more points. Foreigners are not usually able to read such things. Secondly, even if they read it, they will not understand it because it is too Russian. Not because it is written in Russian---it has been excellently translated into all languages---but because it is thoroughly imbued with the Russian spirit. And thirdly, if by way of exception some foreigner does understand it, he cannot carry it out. This is its third defect. I have talked with a few of the foreign delegates and hope to discuss matters in detail with a large number of delegates from different countries during the Congress, although I shall not take part in its proceedings, for unfortunately it is impossible for me to do that. I have the impression that we made a big mistake with this resolution, namely, that we blocked our own road to further success. As I have said already, the resolution is excellently drafted; I am prepared to subscribe to every one of its fifty or more points. But we have not learnt how to present our Russian experience to foreigners. All that was said in the resolution has remained a dead letter. If we do not realise this, we shall be unable to move ahead.*
+
+>> ---V I Lenin
+
+In the last issue of *Workers Action* Nick Davies dealt with the question of "what kind of organisation should Marxists be building", and argued that Marxists "have to break from the traditional Leninist model and find a new and more relevant way of working."
+
+To begin, it certainly *is* the case that the left needs a "fresh start": given the record of the European and north American revolutionary left over the last thirty years, any revolutionary socialist who really did not believe that it was necessary to question the accepted orthodoxies of building revolutionary socialist organisations would appear to be signally out of touch with the real world. Nick must therefore be congratulated on raising the questions that he does, for it is increasingly clear that "business as usual" is no longer a tenable option for us. Yet, as we all know, the road to hell is often paved with good intentions, and the well-meant spirit of a "ruthless criticism of everything existing" runs the danger of the baby going off with the bathwater.
+
+More (pdf, 153 KB): [**A Farewell to the Vanguard Party or a Return to Leninism?**](/files/writing/FarewellVanguardParty.pdf)
