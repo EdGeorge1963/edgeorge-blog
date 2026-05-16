@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/writing/09farewell/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reading-marx/</loc>
+    <lastmod>2026-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading-marx/grundrisse/012capital1/</loc>
+    <lastmod>2026-05-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/10atocha/</loc>
+    <lastmod>2026-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/</loc>
+    <lastmod>2026-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/09farewell/</loc>
     <lastmod>2026-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/texts/</loc>
@@ -24,9 +33,6 @@
     <lastmod>2026-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/texts/south-wales-fi/16fouryears/</loc>
-    <lastmod>2026-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/writing/</loc>
     <lastmod>2026-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/texts/south-wales-fi/15note/</loc>
@@ -151,6 +157,8 @@
     <loc>http://localhost:1313/links/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resources/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url><url>
