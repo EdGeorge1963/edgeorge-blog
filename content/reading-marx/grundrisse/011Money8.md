@@ -10,4 +10,4 @@ Marx shifts tack. He is coming to the end of his discussion of money and is begi
 
 Wage labour and capital are therefore only different forms of exchange value, of money, and since all production becomes exchange value, the individual in society becomes objectified in production. Exchange value becomes the form the social totality takes and the individual in bourgeois society becomes objectified not in her individual quality, but socially.
 
-More (pdf, 269 KB): [**The Chapter on Money Part 8: The Contradictions of Money (pp. 225-238)**](/files/reading-marx/grundrisse/grundrisse11.pdf)
+More (pdf, 93 KB): [**The Chapter on Money Part 8: The Contradictions of Money (pp. 225-238)**](/files/reading-marx/grundrisse/grundrisse11.pdf)

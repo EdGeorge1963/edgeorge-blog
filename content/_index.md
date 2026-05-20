@@ -18,6 +18,8 @@ The [**Texts**]({{<relref "texts/_index.md">}}) section is intended to be a plac
 
 In the [**Translations**]({{<relref "translations/_index.md">}}) section you will find translations, in the main texts by Marx from the *Marx-Engels-Gesamtausgabe* which are not available in English elsewhere.
 
+The [**Resources**]({{<relref "resources/_index.md">}}) section will contain links to other, non-text, resources (video, audio, etc.) that are interesting and important, and difficult or impossible to find elsewhere.
+
 The [**Links**]({{<relref "links/_index.md">}}) section will contain, well, links.
 
 To contact me, [write to me](mailto:edgeorge1963@gmail.com).

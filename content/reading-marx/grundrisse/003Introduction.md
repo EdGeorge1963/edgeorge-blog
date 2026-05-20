@@ -18,4 +18,4 @@ the particular to the general.” It is generally agreed that the “general int
 that Marx refers to in the 1859 Preface is the August 1857 “Introduction”, although
 it is not entirely clear to which specific “results” Marx’s comment makes reference.
 
-More (pdf, 269 KB): [**The "Introduction"**](/files/reading-marx/grundrisse/grundrisse3.pdf)
+More (pdf, 278 KB): [**The "Introduction"**](/files/reading-marx/grundrisse/grundrisse3.pdf)

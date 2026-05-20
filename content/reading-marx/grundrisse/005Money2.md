@@ -14,4 +14,4 @@ labour-time a given amount of metal will represent will fall correspondingly. If
 metal money or token money) is denominated in units (weights) of gold, whether directly or indirectly (symbolically), then, given a secular rise in the general productivity of labour, such
 money will be devalued over time.
 
-More (pdf, 269 KB): [**The Chapter on Money Part 2: Value and Price (pp. 136-144)**](/files/reading-marx/grundrisse/grundrisse5.pdf)
+More (pdf, 92 KB): [**The Chapter on Money Part 2: Value and Price (pp. 136-144)**](/files/reading-marx/grundrisse/grundrisse5.pdf)
