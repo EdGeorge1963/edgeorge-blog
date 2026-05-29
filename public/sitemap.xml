@@ -3,18 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/19stuff/</loc>
+    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/</loc>
+    <lastmod>2026-05-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/18falls/</loc>
+    <lastmod>2026-05-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/17essenceappearance/</loc>
+    <lastmod>2026-05-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reading-marx/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading-marx/grundrisse/016capital5/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading-marx/grundrisse/017capital6/</loc>
+    <lastmod>2026-05-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/15orwell/</loc>
+    <lastmod>2026-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/16omnibus/</loc>
+    <lastmod>2026-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/resources/ga/</loc>
+    <lastmod>2026-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/14factfiction/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/reading-marx/grundrisse/015capital4/</loc>
+    <lastmod>2026-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/writing/13onpostone/</loc>
+    <lastmod>2026-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/reading-marx/grundrisse/013capital2/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writing/1229theses/</loc>
+    <loc>http://localhost:1313/reading-marx/grundrisse/014capital3/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/writing/</loc>
+    <loc>http://localhost:1313/writing/12twentyninetheses/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/resources/</loc>
