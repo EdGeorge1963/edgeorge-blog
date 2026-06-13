@@ -1,6 +1,6 @@
 ---
 title: "Notes on Adam Smith’s Theory of Price (2025)"
-date: "2026-06-11"
+date: "2026-06-12"
 draft: "false"
 ---
 
