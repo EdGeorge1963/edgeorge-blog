@@ -8,4 +8,4 @@ If surplus labour-time is that part of the working day in excess of necessary la
 
 If it is a law of capital that it sets surplus labour in motion, it can only do this on the basis of setting necessary labour in motion. This in turn is achieved through the exchange of capital with labour. The tendency of capital is to create as much labour as possible, at the same time as to reduce necessary labour to a minimum. It is therefore also a tendency of capital to create a *surplus* population.
 
-More (pdf, 79 KB): [**The Chapter on Capital: Part 17: The Accumulation of Capital and the Law of Population (pp. 398-401)**](/files/reading-marx/grundrisse/grundrisse28.pdf)
+More (pdf, 85 KB): [**The Chapter on Capital: Part 17: The Accumulation of Capital and the Law of Population (pp. 398-401)**](/files/reading-marx/grundrisse/grundrisse28.pdf)
